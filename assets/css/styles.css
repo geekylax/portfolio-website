@@ -294,7 +294,10 @@ img {
 }
 
 .home__blob-img {
-  width: 170px;
+  width: 180px;
+  translate: -5px;
+  filter: grayscale(50);
+  /* mix-blend-mode: multiply; */
 }
 
 .home__data {
